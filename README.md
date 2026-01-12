@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdalihasanriyad" alt="mdalihasanriyad" /></a> </p>
 
-- 🔭 I’m currently working on [Byte-Blaze](https://byte-blazeahr.vercel.app/)
+- 🔭 I’m currently working on [CMS Sales](https://cms.ahriyad.top/)
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👯 I’m looking to collaborate on [Portfolio](https:https://ahriyad-portfolio.vercel.app/)
+- 👯 I’m looking to collaborate on [Portfolio](https:https://ahriyad.top/)
 
-- 👨‍💻 All of my projects are available at [https://ahriyad-portfolio.vercel.app/](https://ahriyad-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://ahriyad-portfolio.vercel.app/](https://ahriyad.top/)
 
 - 💬 Ask me about **React JavaScript Node.js**
 
 - 📫 How to reach me **ahriyadinfo@gmail.com**
 
-- 📄 Know about my experiences [https://ahriyad-portfolio.vercel.app/assets/resume-YPD94x0w.pdf](https://ahriyad-portfolio.vercel.app/assets/resume-YPD94x0w.pdf)
+- 📄 Know about my experiences [https://ahriyad-portfolio.vercel.app/assets/resume-YPD94x0w.pdf](https://ahriyad.top/assets/resume-YPD94x0w.pdf)
 
 - ⚡ Fun fact **I am Funny**
 
