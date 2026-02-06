@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdalihasanriyad" alt="mdalihasanriyad" /></a> </p>
 
-- 🔭 I’m currently working on [CMS Sales](https://cms.ahriyad.top/)
+- 🔭 I’m currently working on [CMS Sales software](https://cms.ahriyad.top/)
 
 - 🌱 I’m currently learning **Next.js**
 
