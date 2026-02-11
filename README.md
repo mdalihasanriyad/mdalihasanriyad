@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://ahriyad-portfolio.vercel.app/assets/resume-YPD94x0w.pdf](https://ahriyad.top/assets/resume-YPD94x0w.pdf)
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I am Funny...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
