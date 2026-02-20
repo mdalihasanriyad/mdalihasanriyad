@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👯 I’m looking to collaborate on [Portfolio](https:https://ahriyad.top/)
+- 👯 I’m looking to collaborate on [Portfolio](https:https://ahriyad.top)
 
-- 👨‍💻 All of my projects are available at [AH Riyad](https://ahriyad.top/)
+- 👨‍💻 All of my projects are available at [AH Riyad](https://ahriyad.top)
 
 - 💬 Ask me about **React JavaScript TypeScript Node.js**
 
