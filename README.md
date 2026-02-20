@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [AH Riyad](https://ahriyad.top/)
 
-- 💬 Ask me about **React JavaScript Node.js**
+- 💬 Ask me about **React JavaScript TypeScript Node.js**
 
 - 📫 How to reach me **ahriyadinfo@gmail.com**
 
