@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Roc AI Smart AI Assistance](https://rocai.vercel.app/)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Next js**
 
 - 👯 I’m looking to collaborate on [Portfolio](https:https://ahriyad.top)
 
