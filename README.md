@@ -1,15 +1,15 @@
-<h1 align="center">Hello 👋, I'm Md Ali Hasan Riyad </h1>
+<h1 align="center">Hello 👋, I'm Md. Ali Hasan Riyad </h1>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="mdalihasanriyad coding image" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdalihasanriyad" alt="mdalihasanriyad" /></a> </p>
 
-- 🔭 I’m currently working on [Roc AI Smart AI Assistances](https://rocai.vercel.app)
+- 🔭 I’m currently working on [Roc AI Smart AI Assistances](https://rocai.vercel.app/)
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👯 I’m looking to collaborate on [Portfolio](https:https://ahriyad.top)
+- 👯 I’m looking to collaborate on [Portfolio](https:https://ahriyad.top/)
 
 - 👨‍💻 All of my projects are available at [AH Riyad](https://ahriyad.top/)
 
