@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdalihasanriyad" alt="mdalihasanriyad" /></a> </p>
 
-- 🔭 I’m currently working on [Roc AI Smart AI Assistances](https://rocai.vercel.app/)
+- 🔭 I’m currently working on [Roc AI Smart AI Assistances](https://rocai.vercel.app)
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👯 I’m looking to collaborate on [Portfolio](https:https://ahriyad.top/)
+- 👯 I’m looking to collaborate on [Portfolio](https:https://ahriyad.top)
 
-- 👨‍💻 All of my projects are available at [AH Riyad](https://ahriyad.top/)
+- 👨‍💻 All of my projects are available at [AH Riyad](https://ahriyad.top)
 
 - 💬 Ask me about **React JavaScript TypeScript Node.js**
 
