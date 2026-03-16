@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Md. Ali Hasan Riyad </h1>
-<h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
+<h3 align="center">A passionate MERN Stack developer from Bangladesh </h3>
 
 <p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="mdalihasanriyad coding image" /> </p>
 
