@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on  [Roc AI Smart AI Assistances](https://rocai.vercel.app)
 
-- 🌱 I’m currently learning  **Next.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 👯 I’m looking to collaborate on [Portfolio](https:https://ahriyad.top)
 
@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://ahriyad-portfolio.vercel.app/assets/resume-YPD94x0w.pdf](https://ahriyad.top/assets/resume-YPD94x0w.pdf)
 
-- ⚡ Fun fact **I am so Funny.**
+- ⚡ Fun fact **I am so Funny...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
