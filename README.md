@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React JavaScript TypeScript Node.js**
 
-- 📫 How to reach me **ahriyadinfo@gmail.com**
+- 📫 How to reach me **ahriyadinfo@gmail.com and **
 
 - 📄 Know about my experiences [https://ahriyad-portfolio.vercel.app/assets/resume-YPD94x0w.pdf](https://ahriyad.top/assets/resume-YPD94x0w.pdf)
 
