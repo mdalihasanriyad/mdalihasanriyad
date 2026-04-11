@@ -1,4 +1,5 @@
 <h1 align="center">👋 I'm Md. Ali Hasan Riyad </h1>
+
 <h3 align="center">A passionate Full Stack developer from Bangladesh </h3>
 
 <p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="mdalihasanriyad coding image" /></p>
@@ -21,7 +22,7 @@
 
 - 📄 Know about my experiences [https://ahriyad-portfolio.vercel.app/assets/resume-YPD94x0w.pdf](https://ahriyad.top/assets/resume-YPD94x0w.pdf)
 
-- ⚡ Fun fact **I am so Funny with coding**
+- ⚡ Fun fact **I am so Funny with vibe coding**
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
