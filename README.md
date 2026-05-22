@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **ahriyadinfo@gmail.com**
 
-- 📄 Know about my experiences [https://ahriyad-portfolio.vercel.app/assets/resume-YPD94x0w.pdf](https://ahriyad.top/assets/resume-YPD94x0w.pdf)
+- 📄 Know about my experiences (https://ahriyad.top/assets/resume-YPD94x0w.pdf)
 
 - ⚡ Fun fact **I am so Funny with vibe coding**
 
