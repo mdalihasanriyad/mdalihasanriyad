@@ -1,6 +1,6 @@
 <h1 align="center">👋It's Ali Hasan Riyad </h1>
 
-<h3 align="center">A passionate MERN Stack developer from Bangladesh </h3>
+<h3 align="center">A passionate Full Stack developer from Bangladesh </h3>
 
 <p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="mdalihasanriyad" /></p>
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **ahriyadinfo@gmail.com**
 
-- 📄 Know about my experiences to here [https://ahriyad.top/assets/resume-CXLAn1Wh.pdf]
+- 📄 Know about my experiences here [https://ahriyad.top/assets/resume-CXLAn1Wh.pdf]
 - ⚡ Fun fact **I am so Funny with vibe coding**
 
 <h3 align="left">Connect with me: </h3>
