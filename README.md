@@ -18,7 +18,7 @@
 
 - 📫 How to reach me: **ahriyadinfo@gmail.com**
 
-- 📄 Know about my experiences here [https://ahriyad.top]
+- 📄 Know about my experiences here [https://ahriyad.top/]
 - ⚡ Fun fact **I am so Funny with the vibe coding**
 
 <h3 align="left">Connect with me: </h3>
