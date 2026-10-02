@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Roc AI Smart AI Assistances](https://rocai.vercel.app/)
 
-- 🌱 I’m currently working **Next.js** 
+- 🌱 I’m currently working **New marketplace** 
 
 - 👯 I’m looking to collaborate on [Portfolio](https:https://ahriyad.top/)
 
