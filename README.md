@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Govt Jpb Portal](https://govtjobbd.vercel.app/)
 
-- 🌱 I’m currently working **New marketplace** 
+- 🌱 I’m currently working **New marketplace exploring** 
 
 - 👯 I’m looking to collaborate on [Portfolio](https:https://ahriyad.top/)
 
