@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [AH Riyad](https://ahriyad.top/)
 
-- 💬 Ask me about **ReactJs Node.js**
+- 💬 Ask me about **ReactJs Node.js Javascript**
 
 - 📫 How to reach me: **ahriyadinfo@gmail.com**
 
