@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently working **Marketplace exploring** 
 
-- 👯 I’m looking to collaborate on ([https://github.com/mdalihasanriyad?tab=repositories/])
+- 👯 I’m looking to collaborate on [([https://github.com/mdalihasanriyad?tab=repositories/])](https://github.com/mdalihasanriyad?tab=repositories)
 
 - 👨‍💻 All of my projects are available at [AH Riyad](https://ahriyad.top/)
 
